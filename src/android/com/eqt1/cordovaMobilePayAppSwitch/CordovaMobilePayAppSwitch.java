@@ -16,7 +16,7 @@ import android.util.Log;
 
 import java.math.BigDecimal;
 
-import dk.danskebank.mobilepay.sdk.CaptureType;
+
 import dk.danskebank.mobilepay.sdk.Country;
 import dk.danskebank.mobilepay.sdk.MobilePay;
 import dk.danskebank.mobilepay.sdk.ResultCallback;
